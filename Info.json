@@ -1,7 +1,7 @@
 {
-    "serverDownloadLink": "https://github.com/Elly2018/XanthusDocs/releases/download/v0.1.2-beta/xanthusserver.Setup.0.1.2.exe",
-    "clientDownloadLink": "https://github.com/Elly2018/XanthusDocs/releases/download/v0.1.2-beta/xanthus.Setup.0.1.2.exe",
+    "serverDownloadLink": "https://github.com/Elly2018/XanthusDocs/releases/download/v0.1.3-beta/xanthusserver.Setup.0.1.3.exe",
+    "clientDownloadLink": "https://github.com/Elly2018/XanthusDocs/releases/download/v0.1.3-beta/xanthus.Setup.0.1.3.exe",
     "relaseLink": "https://github.com/Elly2018/XanthusDocs/releases",
-    "serverVersion": "0.1.2",
-    "clientVersion": "0.1.2"
+    "serverVersion": "0.1.3",
+    "clientVersion": "0.1.3"
 }
